@@ -8,9 +8,9 @@ Que transformen la forma en la que la prensa expone sus contenidos y nos informa
 El paramo consistia en desarrollar un sistema multimedia audiovisual interactivo para la muestra Narrando Historias en un tiempo de 15 semanas.
 
 Este proyecto se realizo utilizando:
-HTML5
-CSS3
-JavaScript (ES6)
-Adobe Character cc 2020
-Adobe Premier Pro cc 2020
-Adobe After Effects cc 2020
+HTML5,
+CSS3,
+JavaScript (ES6),
+Adobe Character cc 2020,
+Adobe Premier Pro cc 2020,
+Adobe After Effects cc 2020.
